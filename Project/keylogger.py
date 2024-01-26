@@ -47,12 +47,12 @@ number_of_iterations_end = 3
 microphone_time = 15
 
 #encryption key
-key = "S0OeV5YOL8Qgn6wJjbI3PLTg0Le_EpRf80M6uZp698Y="
+key = "generate using generatekey.py"
     
-email_address = "keyloggerpc27@gmail.com"
-password = "dpqr zcvh waja yvqx"
+email_address = "email@gmail.com"
+password = "**** **** ****"
 
-toaddr = "keyloggerpc27@gmail.com"
+toaddr = "youremail@gmail.com"
 
 
 file_path = "D:\\python programs\\advanced keylogger\\Project"
